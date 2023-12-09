@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas-Individu-Ary</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_title">One of My Dream, Learning the Love Story Inside this Historical Place</string>
+    <string name="sample_excerpt">Learning the Love Story Inside this Historical Place. \n This is The Best Building in Konstatinopel Era.</string>
+    <string name="sample_article">#mimpi_ke_11</string>
+</resources>

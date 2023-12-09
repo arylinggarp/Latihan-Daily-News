@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4fa853</color>
+    <color name="khaki">#c3b091</color>
+    <color name="choco">#964b00</color>
+    <color name="coklat">#836953</color>
+
+    <color name="light_Color_Primary">#3A87C0</color>
+    <!-- General Colors -->
+    <color name="grey">#676767</color>
+    <color name="shimmer">#676767</color>
+    <!-- Dark Colors -->
+    <color name="dark_Color_Primary">#3A87C0</color>
+</resources>
